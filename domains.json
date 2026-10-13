@@ -1,0 +1,8 @@
+{
+  "appId": 365,
+  "domains": [
+    "https://panel.gem-panel.com"
+  ],
+  "healthPath": "/api/v1/health",
+  "updatedAt": "2026-10-13T09:47:46.415Z"
+}
